@@ -98,7 +98,7 @@ export default function App() {
         </section>
 
         <footer className="footer">
-          Dibuat oleh <strong>Muhammad Faiq Jabbar</strong> &copy; {new Date().getFullYear()}
+          Created By <strong>Muhammad Faiq Jabbar</strong> &copy; {new Date().getFullYear()}
         </footer>
       </div>
     </main>
